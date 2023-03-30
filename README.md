@@ -2,8 +2,6 @@
 
 My name is Yuri Miranda Fialho from Brazil. I've been working as Full Stack Developer since 2015, working with IT since 2008 and currently working at [DevSquad](https://devsquad.com) since 2022.
 
-I also like comment about tech, soccer, music and gastronomy.
-
 Would you like to find me? Follow the links below.
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&labelColor=FF0000&logoColor=white&link=https://instagram.com/mirandafialho)](https://instagram.com/mirandafialho)
