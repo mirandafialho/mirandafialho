@@ -1,6 +1,6 @@
 ### Hello there!
 
-My name is Yuri Miranda Fialho from Brazil. I've been working as Full Stack Developer since 2015, working with IT since 2008 and currently free to work.
+My name is Yuri Miranda Fialho from Brazil. I've been working as a full stack developer since 2015, working with IT since 2008 and currently working as a Software Engineer at PipeRun.
 
 Would you like to find me? Follow the links below.
 
